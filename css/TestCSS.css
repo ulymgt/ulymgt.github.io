@@ -131,12 +131,8 @@ header {
 }
 
 .imgStatic{
-  width: 360px;
-  height: 360px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  z-index: 1;}
+  text-align: center;
+}
 
 
 .home-intro {
